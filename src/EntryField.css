@@ -1,0 +1,49 @@
+
+form {
+    background-color: #077BED;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    width: fit-content;
+    height: fit-content;
+  
+    gap: 8px;
+
+    padding: 12px;
+
+    border-radius: 16px;
+  
+}
+  
+input {
+  
+    box-sizing: border-box;
+  
+    padding: 0;
+    padding-left: 12px;
+  
+    margin: 0;
+  
+    width: 280px;
+    height: 40px;;
+  
+    border: none;
+    border-radius: 12px;
+  
+    background-color: #cfe7ff;
+
+    font-size: 1em;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  
+}
+
+input::placeholder {
+    font-size: 1em;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #888
+}
+
+.submit-btn {
+    background-color: #ffffff;
+}

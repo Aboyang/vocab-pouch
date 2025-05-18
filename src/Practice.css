@@ -15,13 +15,15 @@ h2 {
   justify-content: center;
   align-items: center;
 
-  font-size: 6em;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   color: white
 }
 
 .practice-card > p {
+  width: 80%;
   text-align: center;
+  text-wrap: balance;
+  font-size: clamp(1rem, 2.5vw, 3rem);
 }
 
 .recall-btn-bar {

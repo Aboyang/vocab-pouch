@@ -4,13 +4,17 @@
     width: 100vw;
     height: 100vh;
 
-    /* backdrop-filter: blur(2px); */
+    backdrop-filter: blur(2px);
 
     z-index: 1;
 
     display: flex;
     justify-content: center;
     align-items: center;
+
+    overflow: auto;
+    touch-action: auto;
+    -webkit-overflow-scrolling: touch;
 }
 
 .main-box {

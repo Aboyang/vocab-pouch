@@ -23,7 +23,7 @@ h2 {
   width: 80%;
   text-align: center;
   text-wrap: balance;
-  font-size: clamp(1rem, 2.5vw, 3rem);
+  font-size: clamp(1rem, 5vw, 3rem);
 }
 
 .recall-btn-bar {

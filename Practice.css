@@ -8,8 +8,6 @@ h2 {
 }
 
 .practice-card {
-  position: absolute;
-  top: 0;
   width: 100vw;
   height: 65vh;
 
@@ -17,13 +15,14 @@ h2 {
   justify-content: center;
   align-items: center;
 
-  font-size: 4em;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   color: white
 }
 
 .practice-card > p {
+  width: 80%;
   text-align: center;
+  font-size: 3em;
 }
 
 .recall-btn-bar {

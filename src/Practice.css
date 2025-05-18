@@ -22,8 +22,7 @@ h2 {
 .practice-card > p {
   width: 80%;
   text-align: center;
-  text-wrap: balance;
-  font-size: clamp(1rem, 5vw, 3rem);
+  font-size: 3em;
 }
 
 .recall-btn-bar {

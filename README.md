@@ -7,9 +7,9 @@ A lightweight PWA to help users build and review their vocabulary in an interact
 - Easy-to-use and minimal design
 
 🛠️ Technologies Used
-React
-JavaScript (ES6+)
-CSS
+- React
+- JavaScript (ES6+)
+- CSS
 
 🙋‍♂️ Author
-Created by Your Jayden Tee. Feel free to reach out!
+- Created by Your Jayden Tee. Feel free to reach out!
